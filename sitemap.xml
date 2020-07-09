@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/</loc>
+    <lastmod>2017-07-03T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/post/practical-3/</loc>
+    <lastmod>2017-07-03T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/post/practical-2/</loc>
+    <lastmod>2017-07-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/post/practical-1/</loc>
+    <lastmod>2017-07-01T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://jdmwhite.github.io/gee_for_conservation/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

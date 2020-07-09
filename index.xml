@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Earth Engine for Conservation</title>
+    <link>https://jdmwhite.github.io/gee_for_conservation/</link>
+    <description>Recent content on Google Earth Engine for Conservation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jul 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jdmwhite.github.io/gee_for_conservation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Practical 3: Visualising Bands</title>
+      <link>https://jdmwhite.github.io/gee_for_conservation/post/practical-3/</link>
+      <pubDate>Mon, 03 Jul 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://jdmwhite.github.io/gee_for_conservation/post/practical-3/</guid>
+      <description>Here you will learn how to visualise images in GEE.
+It is important to be able to understand the different bands that form an satellite image.
+The ability to visualise different combinations of bands allows us to highlight useful features from the landscape.
+Let&amp;rsquo;s get started with the code&amp;hellip;
+  print(&amp;#39;Hello OTS Class of Spring 2020&amp;#39;); //// Strings // Use single or double quotes to make a string var greetString = &amp;#39;Why hello there&amp;#39;; // Use brackets () to pass arguments to functions print(greetString);  Link to GEE code for Practical 2</description>
+    </item>
+    
+    <item>
+      <title>Practical 2: Exploring Images</title>
+      <link>https://jdmwhite.github.io/gee_for_conservation/post/practical-2/</link>
+      <pubDate>Sun, 02 Jul 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://jdmwhite.github.io/gee_for_conservation/post/practical-2/</guid>
+      <description>Here you will learn basic JavaScript syntax
+  print(&amp;#39;Hello OTS Class of Spring 2020&amp;#39;); //// Strings // Use single or double quotes to make a string var greetString = &amp;#39;Why hello there&amp;#39;; // Use brackets () to pass arguments to functions print(greetString);  Link to GEE code for Practical 2</description>
+    </item>
+    
+    <item>
+      <title>Practical 1: GEE Environment</title>
+      <link>https://jdmwhite.github.io/gee_for_conservation/post/practical-1/</link>
+      <pubDate>Sat, 01 Jul 2017 12:00:00 -0500</pubDate>
+      
+      <guid>https://jdmwhite.github.io/gee_for_conservation/post/practical-1/</guid>
+      <description>Explore the code editor Explore the Script, Doc and Asset tabs Explore the Console and Task tabs    Link to GEE code for Practical 1</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jdmwhite.github.io/gee_for_conservation/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jdmwhite.github.io/gee_for_conservation/contact/</guid>
+      <description>   Instructor email     Geethen Singh: geethen.singh@domain.com   Joseph White: josephdmwhite@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
